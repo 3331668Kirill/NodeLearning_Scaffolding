@@ -1,1 +1,6 @@
-{"Name":"Marcus Aurelius","Login":"Марк","Password":"nopassword","Email":"marcus@spqr.re"}
+{
+  "Name": "Marcus Aurelius",
+  "Login": "Марк",
+  "Password": "nopassword",
+  "Email": "marcus@spqr.re"
+}
